@@ -33,6 +33,8 @@ Side Chat sends the AI what it needs to answer well:
 - **The whole conversation.** From the Claude app, or from claude.ai, chatgpt.com or gemini.google.com in your browser. This includes the parts scrolled out of view, so its answers connect to what you discussed earlier.
 - **Files you uploaded to the chat**, such as a homework PDF, when your copy is on this Mac.
 
+Small chips at the top of the pop-up show what it's using: the screenshot, the whole chat and any files.
+
 ## Features
 
 Every feature can be switched off, and every shortcut can be changed, in **Settings → Features**.
@@ -54,6 +56,7 @@ Every feature can be switched off, and every shortcut can be changed, in **Setti
 ### Answers
 
 - **Readable answers.** Markdown, highlighted code, and real math symbols (LaTeX).
+- **Text size** (<kbd>⌘</kbd><kbd>+</kbd> / <kbd>⌘</kbd><kbd>−</kbd>, <kbd>⌘</kbd><kbd>0</kbd> to reset). Make answers bigger or smaller so they're easier to read.
 - **Send to chat** (<kbd>⌘</kbd><kbd>⇧</kbd><kbd>↩</kbd>). Pastes the answer, or a drafted follow-up, into your main chat. It never presses Return for you.
 - **Read aloud** (<kbd>⌘</kbd><kbd>R</kbd>). Speaks the latest answer. Press again to stop.
 - **Save as notes or flashcards** (<kbd>⌘</kbd><kbd>S</kbd>). Save the side chat as a Markdown file, or as flashcards you can import into Anki.
@@ -68,7 +71,8 @@ Every feature can be switched off, and every shortcut can be changed, in **Setti
 ### The app
 
 - **Works with your account.** Sign in with ChatGPT to use your Plus or Pro plan with no API key, sign in with OpenRouter, or use an Anthropic, OpenAI or Google Gemini key.
-- **Looks at home next to Claude.** A see-through glass background like the Claude app's sidebar, light or dark mode, and your choice of answer font, text size and menu bar icon.
+- **Looks at home on a Mac.** A clean, quiet layout with a see-through glass background like the Claude app's sidebar, Apple's own SF Pro font (or New York, Apple's serif, for answers), light or dark mode, and your choice of text size and menu bar icon.
+- **Always on top.** The pop-up opens above every window, even full-screen apps, and Settings opens above the pop-up.
 - **Stays out of the way.** It lives in the menu bar. <kbd>Esc</kbd> hides it and sends you back to the app you were in.
 - **Updates itself.** Every update is signed and checked before it installs.
 
